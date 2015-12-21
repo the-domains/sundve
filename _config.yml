@@ -1,7 +1,7 @@
 name: sundve
 favicon: null
-layout_spectrum: 0.035410095704719424
-typography_spectrum: 0.0922044301405549
+layout_spectrum: 0
+typography_spectrum: 0.27524
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#253237'
   brandStrength: 0.6635911532212049
   lightness: 0.7962225889787078
-  saturation: 0.4924680944532156
+  saturation: 0.5
   rhythmicContrast: 0.9830243897158653
 purpose: []
